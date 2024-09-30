@@ -19,7 +19,7 @@ body {
     /*centramos el contenido horizontalmente*/
 }
 
-h2 {
+h1 {
     color: #899040;
 }
 .name {
@@ -40,7 +40,7 @@ hr {
     background-color: #6BA9B5;
 }
 
-h3 {
+h2 {
     font-style: italic;
     color: #0B667C;
 }
